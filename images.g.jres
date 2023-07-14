@@ -4,11 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
-    "V8A+#Ku28|a:7L@G9$sS": {
-        "data": "hwQQABAAAACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiACIiIiIgYiIAIiIGIgYiIgAiIiIiIiBiACIiIiIiIGIAIiIiIiIgYgAiIiIiIiBiACIiBiIGIiIAIiIiIiBiIgAiIiIiIiIiACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Player 2"
-    },
     "Q*r!iYz!#2RlKzt0?R=G": {
         "data": "hwQQABAAAAARERERERERABEREREREREAEREREREREQARERERHxERABER8RHxEREAEREREREfEQARERERER8RABERERERHxEAEREREREfEQAREfER8RERABEREREfEREAEREREREREQARERERERERABEREREREREAEREREREREQAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -28,6 +23,11 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAzMwMAAAAAMDMzAwAAADAzMzMzAwAAMDMzMzMDAAAwMzMzMwMAADAzMzMzAwAAMDMzMzMDAAAwMzMzMwMAAAAwMzMDAAAAADAzMwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Ball"
+    },
+    "V8A+#Ku28|a:7L@G9$sS": {
+        "data": "hwQQABAAAACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiACIiIiIgYiIAIiIGIgYiIgAiIiIiIiBiACIiIiIiIGIAIiIiIiIgYgAiIiIiIiBiACIiBiIGIiIAIiIiIiBiIgAiIiIiIiIiACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player 2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
