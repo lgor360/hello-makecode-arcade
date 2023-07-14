@@ -1,8 +1,6 @@
 
 
 
-> Open this page at [https://lgor360.github.io/hello-makecode-arcade/](https://lgor360.github.io/hello-makecode-arcade/)
-
 ## Description of this project
 
 I made this project to familiarize myself with the features of MakeCode Arcade. At first I used Scratch, but now I decided to try this programming platform.
