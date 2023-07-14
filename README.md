@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lgor360/hi_microsoft_makecode_arcade** and import
+* search for **https://github.com/lgor360/hello-makecode-arcade** and import
 
 ## Edit this project ![Build status badge](https://github.com/lgor360/hi_microsoft_makecode_arcade/workflows/MakeCode/badge.svg)
 
