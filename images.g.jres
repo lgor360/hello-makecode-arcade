@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "V8A+#Ku28|a:7L@G9$sS": {
+        "data": "hwQQABAAAACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiACIiIiIgYiIAIiIGIgYiIgAiIiIiIiBiACIiIiIiIGIAIiIiIiIgYgAiIiIiIiBiACIiBiIGIiIAIiIiIiBiIgAiIiIiIiIiACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player 2"
+    },
+    "Q*r!iYz!#2RlKzt0?R=G": {
+        "data": "hwQQABAAAAARERERERERABEREREREREAEREREREREQARERERHxERABER8RHxEREAEREREREfEQARERERER8RABERERERHxEAEREREREfEQAREfER8RERABEREREfEREAEREREREREQARERERERERABEREREREREAEREREREREQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player 1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
