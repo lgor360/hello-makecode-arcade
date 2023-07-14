@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://lgor360.github.io/hi_microsoft_makecode_arcade/](https://lgor360.github.io/hi_microsoft_makecode_arcade/)
+> Open this page at [https://github.com/lgor360/hello-makecode-arcade](https://github.com/lgor360/hello-makecode-arcade)
 
 ## Use as Extension
 
