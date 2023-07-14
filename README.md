@@ -67,4 +67,4 @@ This image may take a few minutes to refresh.
 
 ## Do you want to play multiplayer? 
 
-If you're not kidding. I'm surprised! Because this game is really boring... It doesn't even have a gameplay! But... If you want to play in multiplayer just write me on Discord server! By the way here is the link to it: [Click on me](https://arcade.makecode.com/) 
+If you're not kidding. I'm surprised! Because this game is really boring... It doesn't even have a gameplay! But... If you want to play in multiplayer just write me on Discord server! By the way here is the link to it: [Click on me](https://discord.com/channels/1129507034228854914/1129507716126216212 ) 
