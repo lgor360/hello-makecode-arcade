@@ -5,7 +5,7 @@
 
 ## Description of this project
 
-zero
+I made this project to familiarize myself with the features of MakeCode Arcade. At first I used Scratch, but now I decided to try this programming platform.
 
 ## Blocks preview
 
