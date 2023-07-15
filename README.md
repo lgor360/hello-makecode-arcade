@@ -11,6 +11,10 @@ I made this project to familiarize myself with the features of MakeCode Arcade. 
 
 ![Screenshort ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/preview2.png)
 
+## Multiplayer video test
+
+![Video ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/videotest.png)
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
