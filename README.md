@@ -13,7 +13,7 @@ I made this project to familiarize myself with the features of MakeCode Arcade. 
 
 ## Multiplayer video test
 
-![Video ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/videotest.png)
+![Video ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/videotest.mp4)
 
 ## Blocks preview
 
