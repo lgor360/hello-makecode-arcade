@@ -5,9 +5,11 @@
 
 I made this project to familiarize myself with the features of MakeCode Arcade. At first I used Scratch, but now I decided to try this programming platform.
 
-## Screenshort
+## Screenshorts
 
 ![Screenshort ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/preview.png)
+
+![Screenshort ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/preview2.png)
 
 ## Blocks preview
 
