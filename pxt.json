@@ -8,7 +8,8 @@
         "sprite-scaling": "*",
         "controller": "*",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "animation": "*"
+        "animation": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
     },
     "files": [
         "main.blocks",
