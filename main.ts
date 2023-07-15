@@ -74,8 +74,7 @@ let P3: Sprite = null
 let P4: Sprite = null
 let P1: Sprite = null
 let P2: Sprite = null
-music.play(music.stringPlayable("C5 A B F D A G B ", 101), music.PlaybackMode.LoopingInBackground)
+music.play(music.createSong(assets.song`mySong`), music.PlaybackMode.LoopingInBackground)
 Sprites()
-scene.setBackgroundImage(assets.image`Backround`)
+tiles.setCurrentTilemap(tilemap`level`)
 Players()
-let P1HELLO = sprites.create(assets.image`p1notsayhello`, SpriteKind.Player)
