@@ -9,13 +9,19 @@ I made this project to familiarize myself with the features of MakeCode Arcade. 
 
 ![Screenshort ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/preview.png)
 
+Preview, Jul 14, 2023
+
 ![Screenshort ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/preview2.png)
+
+Preview 2, Jul 15, 2023
 
 ## Multiplayer video test
 
 Unfortunately to watch the video you have to click on the link below to download the video... 
 
 ![Video ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/videotest.mp4)
+
+Video Test, Jul 15, 2023
 
 ## Blocks preview
 
