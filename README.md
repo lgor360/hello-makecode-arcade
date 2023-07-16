@@ -21,7 +21,7 @@ Unfortunately to watch the video you have to click on the link below to download
 
 ![Video ](https://github.com/lgor360/hello-makecode-arcade/raw/master/.github/makecode/videotest.mp4)
 
-Video Test, Jul 15, 2023
+⬆️ Video Test, Jul 15, 2023
 
 ## Blocks preview
 
