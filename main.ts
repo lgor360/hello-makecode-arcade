@@ -37,10 +37,6 @@ controller.player2.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Press
 controller.player3.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
     P3.sayText("Hi! ", 2000, false)
 })
-sprites.onOverlap(SpriteKind.оштлдчдтлошщвдошщовшолдолвзолжлтуждоожщузщлзлщзлщцзлщджлуджлжлдужьдджьждьцдьдьжцьжд, SpriteKind.Ball, function (sprite, otherSprite) {
-    Ball_IsSAS.vy += randint(-4, -5)
-    Ball_IsSAS.vx += randint(-4, -5)
-})
 // Chat P4 HI
 controller.player4.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
     P4.sayText("Hello!", 2000, false)
@@ -48,6 +44,10 @@ controller.player4.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Press
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Ball, function (sprite, otherSprite) {
     Ball_IsSAS.vx = randint(0, 160)
     Ball_IsSAS.vy = randint(0, 120)
+})
+scene.onOverlapTile(SpriteKind.Ball, assets.tile`myTile11`, function (sprite, location) {
+    Ball_IsSAS.vy += randint(-4, -5)
+    Ball_IsSAS.vx += randint(-4, -5)
 })
 function Sprites () {
     P1 = sprites.create(assets.image`Player 1`, SpriteKind.Player)
@@ -65,6 +65,5 @@ tiles.setCurrentTilemap(tilemap`level`)
 Sprites()
 Players()
 Ball_IsSAS = sprites.create(assets.image`Ball`, SpriteKind.Ball)
-Ball_IsSAS.setPosition(29, 55)
-let лдтвлдтдвлтщушщттлщултдьдуьддьжуждььджцьдждььждудьжьджвждьждлжвдььджвэдьвэжьжыждлджжыдлджььжыьдждьжуджьдзджуджьждуджьждьдуджьдьжудьуждьдзуьдлздзьузьдздьудзььдзьуздььждьджуь = sprites.create(assets.image`myImage0`, SpriteKind.оштлдчдтлошщвдошщовшолдолвзолжлтуждоожщузщлзлщзлщцзлщджлуджлжлдужьдджьждьцдьдьжцьжд)
-лдтвлдтдвлтщушщттлщултдьдуьддьжуждььджцьдждььждудьжьджвждьждлжвдььджвэдьвэжьжыждлджжыдлджььжыьдждьжуджьдзджуджьждуджьждьдуджьдьжудьуждьдзуьдлздзьузьдздьудзььдзьуздььждьджуь.y = 81
+Ball_IsSAS.setPosition(16, 20)
+scene.cameraFollowSprite(Ball_IsSAS)
