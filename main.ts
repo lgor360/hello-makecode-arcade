@@ -1,6 +1,7 @@
 namespace SpriteKind {
     export const Ball = SpriteKind.create()
     export const messenge = SpriteKind.create()
+    export const оштлдчдтлошщвдошщовшолдолвзолжлтуждоожщузщлзлщзлщцзлщджлуджлжлдужьдджьждьцдьдьжцьжд = SpriteKind.create()
 }
 // Chat P2 bye
 controller.player2.onButtonEvent(ControllerButton.B, ControllerButtonEvent.Pressed, function () {
@@ -36,9 +37,17 @@ controller.player2.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Press
 controller.player3.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
     P3.sayText("Hi! ", 2000, false)
 })
+sprites.onOverlap(SpriteKind.оштлдчдтлошщвдошщовшолдолвзолжлтуждоожщузщлзлщзлщцзлщджлуджлжлдужьдджьждьцдьдьжцьжд, SpriteKind.Ball, function (sprite, otherSprite) {
+    Ball_IsSAS.vy += randint(-4, -5)
+    Ball_IsSAS.vx += randint(-4, -5)
+})
 // Chat P4 HI
 controller.player4.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
     P4.sayText("Hello!", 2000, false)
+})
+sprites.onOverlap(SpriteKind.Player, SpriteKind.Ball, function (sprite, otherSprite) {
+    Ball_IsSAS.vx = randint(0, 160)
+    Ball_IsSAS.vy = randint(0, 120)
 })
 function Sprites () {
     P1 = sprites.create(assets.image`Player 1`, SpriteKind.Player)
@@ -50,7 +59,12 @@ let P3: Sprite = null
 let P4: Sprite = null
 let P1: Sprite = null
 let P2: Sprite = null
+let Ball_IsSAS: Sprite = null
 music.play(music.stringPlayable("B A G A G F A C5 ", 235), music.PlaybackMode.LoopingInBackground)
-Sprites()
 tiles.setCurrentTilemap(tilemap`level`)
+Sprites()
 Players()
+Ball_IsSAS = sprites.create(assets.image`Ball`, SpriteKind.Ball)
+Ball_IsSAS.setPosition(29, 55)
+let лдтвлдтдвлтщушщттлщултдьдуьддьжуждььджцьдждььждудьжьджвждьждлжвдььджвэдьвэжьжыждлджжыдлджььжыьдждьжуджьдзджуджьждуджьждьдуджьдьжудьуждьдзуьдлздзьузьдздьудзььдзьуздььждьджуь = sprites.create(assets.image`myImage0`, SpriteKind.оштлдчдтлошщвдошщовшолдолвзолжлтуждоожщузщлзлщзлщцзлщджлуджлжлдужьдджьждьцдьдьжцьжд)
+лдтвлдтдвлтщушщттлщултдьдуьддьжуждььджцьдждььждудьжьджвждьждлжвдььджвэдьвэжьжыждлджжыдлджььжыьдждьжуджьдзджуджьждуджьждьдуджьдьжудьуждьдзуьдлздзьузьдздьудзььдзьуздььждьджуь.y = 81
