@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiEiIhIiIiIiIiIhIiIiIiIiIiIiEiIiIiIiIiISIiIiIiIiIhIiIiIiIiEiIiIiIiEiIhIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAACIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIGIiBiIiIiIiIiBiIiIiIiIiIiIGIiIiIiIiIgYiIiIiIiIiBiIiIiIiIGIiIiIiIGIiBiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAABEREREREREREREREREREREREREREREREREREREREREREREFERBRERERERERBREREREREREREFEREREREREQURERERERERBREREREREFEREREREFERBRERERERERERERERERERERERERERERERERERERERERERERERERERERERERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3F3dxd3d3d3d3dxd3d3d3d3d3d3F3d3d3d3d3cXd3d3d3d3dxd3d3d3d3F3d3d3d3F3dxd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAABHx/w8AAAD/ERH/HwEA8P8fEf8fEQDw//8R8RERAPH/ERHxEREBERERERER/w8REREREfH/DxHx/x8R8f8P/////x/x/w///////xH/D///////EfEP8P////8REQAQERERERERAAAREREREQEAAAAR//8BAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
